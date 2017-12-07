@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="JavaScriptDon." type="JavaScript" />
+      <mapping pattern="JavaScriptDon.js" type="JavaScript" />
+    </extensionMap>
+  </component>
+</application>
