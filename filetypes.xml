@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="JavaScriptDon." type="JavaScript" />
       <mapping pattern="JavaScriptDon.js" type="JavaScript" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
